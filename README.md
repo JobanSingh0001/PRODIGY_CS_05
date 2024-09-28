@@ -31,8 +31,8 @@ This project is a **Network Packet Analyzer** developed as part of Task 05 for P
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JobanSingh0001/PRODIGY_CS_04.git
-   cd PRODIGY_CS_04
+   git clone https://github.com/JobanSingh0001/PRODIGY_CS_05.git
+   cd PRODIGY_CS_05
    ```
 
 2. Run the Python script with administrator privileges:
